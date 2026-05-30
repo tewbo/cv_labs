@@ -1,0 +1,20 @@
+{
+  "token": "bogdan_person",
+  "class_word": "man",
+  "seed": 42,
+  "base_model": "runwayml/stable-diffusion-v1-5",
+  "token_prompts": [
+    "a high quality realistic portrait photo of bogdan_person in a forest, natural light, 35mm studio photo bright detailed face",
+    "a high quality realistic portrait photo of bogdan_person in a city, street photography, 35mm studio photo detailed face",
+    "a high quality realistic portrait photo of bogdan_person in a beach, sunset light, 35mm studio photo detailed face",
+    "a high quality realistic portrait photo of bogdan_person in a cyberpunk neon street, 35mm photo detailed face",
+    "a high quality realistic portrait photo of bogdan_person wearing metallic futuristic armor, studio photo detailed face"
+  ],
+  "class_prompts": [
+    "a high quality realistic portrait photo of a man in a forest, natural light, 35mm studio photo detailed face",
+    "a high quality realistic portrait photo of a man in a city, street photography, 35mm studio photo detailed face",
+    "a high quality realistic portrait photo of a man in a beach, sunset light, 35mm studio photo detailed face",
+    "a high quality realistic portrait photo of a man in a cyberpunk neon street, 35mm studio photo detailed face",
+    "a high quality realistic portrait photo of a man wearing metallic futuristic armor, studio photo detailed face"
+  ]
+}

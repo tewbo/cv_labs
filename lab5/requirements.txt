@@ -1,0 +1,9 @@
+accelerate>=0.33.0
+diffusers>=0.30.0
+lpips>=0.1.4
+matplotlib>=3.8.0
+numpy>=2.1.0
+pillow>=10.0.0
+torch>=2.3.0
+torchvision>=0.18.0
+transformers>=4.43.0,<5
